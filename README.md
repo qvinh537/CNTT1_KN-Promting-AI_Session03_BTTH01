@@ -24,28 +24,13 @@ R – Request (Yêu cầu):
 
 Hãy giới thiệu tổng quan và cung cấp những thông tin cơ bản về ngành Công nghệ thông tin để giúp tôi hiểu rõ hơn về ngành học này.
 
-E – Explanation (Giải thích):
+|Thành phần|Nội dung Prompt|
+|-|-|
+|C – Context (Bối cảnh)|Tôi là học sinh vừa tốt nghiệp THPT, đang tìm hiểu và định hướng lựa chọn ngành học đại học. Tôi đặc biệt quan tâm đến ngành Công nghệ thông tin nhưng chưa có nhiều kiến thức về lĩnh vực này|
+|R – Request (Yêu cầu)|Hãy giới thiệu tổng quan và cung cấp những thông tin cơ bản về ngành Công nghệ thông tin|
+|E – Explanation (Giải thích)|Tôi muốn tìm hiểu ngành CNTT là gì, các lĩnh vực chính, vai trò và ứng dụng của ngành trong đời sống. Đồng thời, tôi muốn biết những kiến thức, kỹ năng và tố chất cần thiết để theo học ngành này|
+|A – Action (Hành động)|Giải thích khái niệm ngành CNTT, Trình bày lịch sử hình thành và phát triển, Giới thiệu các lĩnh vực chính như lập trình phần mềm, AI, khoa học dữ liệu, mạng máy tính và an toàn thông tin, Phân tích vai trò và ứng dụng trong thực tế, Nêu kiến thức, kỹ năng và tố chất cần thiết, Nêu kiến thức, kỹ năng và tố chất cần thiết, Đánh giá xu hướng và triển vọng phát triển của ngành|
+|T – Tone (Giọng điệu)|Sử dụng giọng điệu thân thiện, tích cực, chuyên nghiệp và dễ hiểu. Hạn chế thuật ngữ chuyên ngành hoặc giải thích rõ những thuật ngữ khó
+| E – Extras (Bổ sung)| Đưa ra ví dụ thực tế minh họa cho từng lĩnh vực, Trình bày nội dung có tiêu đề và gạch đầu dòng rõ ràng, Bổ sung bảng tóm tắt thông tin quan trọng, Đưa ra lời khuyên giúp học sinh THPT chuẩn bị kiến thức và kỹ năng trước khi vào đại học, Nội dung đầy đủ nhưng không quá dài hoặc học thuật|
 
-Tôi muốn tìm hiểu ngành CNTT là gì, ngành này nghiên cứu những lĩnh vực nào, có vai trò như thế nào trong đời sống và xã hội hiện đại. Đồng thời, tôi muốn biết những kiến thức, kỹ năng và tố chất cần thiết để theo học ngành này.
 
-A – Action (Hành động):
-
-Hãy thực hiện các nội dung sau:
-
-Giải thích khái niệm và bản chất của ngành Công nghệ thông tin.
-Trình bày lịch sử hình thành và quá trình phát triển của ngành.
-Giới thiệu các lĩnh vực chính như lập trình phần mềm, trí tuệ nhân tạo (AI), khoa học dữ liệu, mạng máy tính và an toàn thông tin.
-Phân tích vai trò và ứng dụng của CNTT trong giáo dục, y tế, kinh tế, sản xuất và đời sống.
-Nêu những kiến thức, kỹ năng và tố chất cần thiết để học tốt ngành CNTT.
-Đánh giá xu hướng phát triển và triển vọng của ngành trong tương lai.
-T – Tone (Giọng điệu):
-
-Sử dụng giọng điệu thân thiện, tích cực, chuyên nghiệp và dễ hiểu. Giải thích bằng ngôn ngữ phổ thông, hạn chế thuật ngữ chuyên ngành hoặc giải thích rõ khi sử dụng thuật ngữ khó.
-
-E – Extras (Yêu cầu bổ sung):
-
-Đưa ra ví dụ thực tế để minh họa cho từng lĩnh vực của ngành CNTT.
-Trình bày nội dung có hệ thống, chia thành các tiêu đề và gạch đầu dòng rõ ràng.
-Bổ sung bảng tóm tắt những thông tin quan trọng về ngành CNTT.
-Đưa ra lời khuyên giúp học sinh THPT chuẩn bị kiến thức và kỹ năng trước khi bước vào đại học.
-Độ dài vừa phải, đầy đủ thông tin nhưng không quá học thuật.
